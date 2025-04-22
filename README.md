@@ -11,7 +11,7 @@ Este projeto serve como um cartão de visitas de redes sociais.
 5. Git e GitHub
 6. VSCode
 
-## Protótipo do Figma usado como referência
+## Protótipo
 
 https://www.figma.com/design/7W6aqnDOr6NmgKrePWztss/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=0-1&p=f&t=YjwIZbwF7JNrDNxd-0
 
